@@ -1,6 +1,6 @@
+a = int(input("enter any number"))
 
-a = input("enter any number")
-print(int(a))
-
-if a>6:
-    print("A is a greatest")
+if a%2 == 0:
+    print(f'{a} is an even number.')
+else:
+    print(f'{a} is an odd number.')

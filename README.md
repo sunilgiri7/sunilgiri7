@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @sunilgiri7
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on anything I can help with.
-- 📫 Reach me at seungiri841@gmail.com
-
 - 🔭 I’m currently working on Feature Extraction and Data analytics
 
 - 🌱 I’m currently learning NLP with Data Analytics
@@ -13,6 +7,8 @@
 - 👨‍💻 All of my projects are available at https://github.com/sunilgiri7?tab=repositories
 
 - 📫 How to reach me seungiri841@gmail.com
+  
+- 💞️ I’m looking to collaborate on anything I can help with.
 
 - ⚡ Fun fact Welp, I have something to be passionate about!
 

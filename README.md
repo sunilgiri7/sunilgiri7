@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Feature Extraction and Data analytics
+- 🔭 I’m currently working on LangChain and LLM models
 
 - 🌱 I’m currently learning NLP with Data Analytics
 

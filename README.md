@@ -16,8 +16,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sunil-giri77) 
-[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/thenameissunil7/) 
-[![Twitter](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/sunilgiri77) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thenameissunil7/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/sunilgiri77)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api?username=sunilgiri7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>

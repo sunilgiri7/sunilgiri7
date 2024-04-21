@@ -13,12 +13,8 @@
 - ⚡ Fun fact Welp, I have something to be passionate about!
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sunil-giri77) 
-
-
-[![](https://visitcount.itsvg.in/api?id=sunilgiri7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api?username=sunilgiri7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>

@@ -1,8 +1,11 @@
-- 🔭 I’m currently working on LangChain and LLM models
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-- 🌱 I’m currently learning NLP with Data Analytics
+<p align="center"> AI Engineer | Looking to collaborate on anything that I can help with.
+<p align="center">
 
-- 🤝 I’m looking for help with Research, preferably in NLP x Data Analytics
+-  🌱 I’m currently learning ML, NLP, GenAi with MERN Teachnology
+
+- 🤝 I’m looking for help with Research, Development
 
 - 👨‍💻 All of my projects are available at https://github.com/sunilgiri7?tab=repositories
 
@@ -10,11 +13,11 @@
   
 - 💞️ I’m looking to collaborate on anything I can help with.
 
-- ⚡ Fun fact Welp, I have something to be passionate about!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sunil-giri77) 
+[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/thenameissunil7/) 
+[![Twitter](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/sunilgiri77) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api?username=sunilgiri7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>

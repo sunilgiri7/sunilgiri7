@@ -23,16 +23,24 @@
 
 <p align="center">🚀 Skills & Technologies</p>
 Programming Languages: Python, SQL
+
 Frameworks & Tools: Django, TensorFlow, scikit-learn, FastAPI, Flask
+
 Databases: PostgreSQL, MongoDB, MySQL
+
 DevOps & Cloud: Docker, Redis, Celery, AWS
+
 AI & ML: NLP, ML, Computer Vision, Generative AI Models (LLMs), Model Deployment
+
 Collaboration Tools: Gitlab, git
 
 <p align="center">🏆 Achievements</p>
 Designed and deployed scalable AI-powered APIs that handle millions of requests per month.
+
 Successfully implemented predictive models that increased client efficiency by 30%.
+
 Contributor to open-source AI tools and libraries.
+
 Contributed in one day hackathon for image preprocessing and model training
 
 <p align="center">📊 Visitor Count</p>

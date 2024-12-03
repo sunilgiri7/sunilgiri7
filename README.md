@@ -2,10 +2,15 @@
 
 <p align="center">👨‍💻 About Me</p>
 🌱 Hands-on Expertise: Experienced in Machine Learning, Natural Language Processing (NLP), and Generative AI with a strong backend focus using Django.
+
 🚀 Current Goals: Exploring advanced GenAI models and building scalable, production-ready APIs.
+
 🤝 Open to Collaborations: Looking to contribute to innovative projects involving research, AI development, and scalable systems.
+
 📂 Portfolio: Check out my projects and repositories to see what I’ve been working on.
+
 💌 Contact Me: Reach out via seungiri841@gmail.com for collaborations or inquiries.
+
 💡 Mission: Build AI systems that leave a lasting impact on the world.
 
 <p align="center">🌐 Socials</p>

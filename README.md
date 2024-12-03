@@ -4,9 +4,13 @@
 🌱 Hands-on Expertise: Experienced in Machine Learning, Natural Language Processing (NLP), and Generative AI with a strong backend focus using Django.
 
 🚀 Current Goals: Exploring advanced GenAI models and building scalable, production-ready APIs.
+
 🤝 Open to Collaborations: Looking to contribute to innovative projects involving research, AI development, and scalable systems.
+
 📂 Portfolio: Check out my projects and repositories to see what I’ve been working on.
+
 💌 Contact Me: Reach out via seungiri841@gmail.com for collaborations or inquiries.
+
 💡 Mission: Build AI systems that leave a lasting impact on the world.
 
 <p align="center">🌐 Socials</p>
@@ -29,6 +33,7 @@ Collaboration Tools: Gitlab, git
 Designed and deployed scalable AI-powered APIs that handle millions of requests per month.
 Successfully implemented predictive models that increased client efficiency by 30%.
 Contributor to open-source AI tools and libraries.
+Contributed in one day hackathon for image preprocessing and model training
 
 <p align="center">📊 Visitor Count</p>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=sunilgiri7&icon=2&color=0" alt="Visitor Count"> </p>

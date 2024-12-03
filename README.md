@@ -22,12 +22,12 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"> </p>
 
 <p align="center">🚀 Skills & Technologies</p>
-Programming Languages: Python, JavaScript, SQL
-Frameworks & Tools: Django, TensorFlow, PyTorch, FastAPI, Flask
+Programming Languages: Python, SQL
+Frameworks & Tools: Django, TensorFlow, scikit-learn, FastAPI, Flask
 Databases: PostgreSQL, MongoDB, MySQL
-DevOps & Cloud: Docker, Kubernetes, AWS
-AI & ML: NLP, Computer Vision, Generative AI Models (LLMs), Model Deployment
-Collaboration Tools: Git, JIRA, Trello
+DevOps & Cloud: Docker, Redis, Celery, AWS
+AI & ML: NLP, ML, Computer Vision, Generative AI Models (LLMs), Model Deployment
+Collaboration Tools: Gitlab, git
 
 <p align="center">🏆 Achievements</p>
 Designed and deployed scalable AI-powered APIs that handle millions of requests per month.
